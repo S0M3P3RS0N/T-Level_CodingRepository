@@ -86,3 +86,5 @@ while play == True:
                 elif UserResponse == 0:
                     break
 ```
+### Output
+![alt tag for screen readers](images/MastermindGameProject.PNG)
