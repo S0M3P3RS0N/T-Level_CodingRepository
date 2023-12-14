@@ -328,7 +328,7 @@ def EmployeeMenu(EmployeeFirstName, EmployeeSecondName,EmployeeID):
             Menu = False
             exit()
         else:
-            print("Invalid selection choose between (1-2)")
+            print("Invalid selection choose between (1-4)")
 
 def Login():
     LoginPassed = False
