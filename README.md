@@ -362,5 +362,4 @@ Login()
 
 ### Output
 ![alt tag for screen readers](images/UserManagementSystemMenu.PNG)
-
 ![alt tag for screen readers](images/UserManagementSystemMenuOptionSelected.PNG)
