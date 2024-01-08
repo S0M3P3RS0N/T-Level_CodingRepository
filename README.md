@@ -361,5 +361,6 @@ Login()
 ```
 
 ### Output
-![alt tag for screen readers](images/UserManagementSystemMenu.PNG)
-![alt tag for screen readers](images/UserManagementSystemMenuOptionSelected.PNG)
+![alt tag for screen readers](images/UserManagementSystemAdminMenu.PNG)
+![alt tag for screen readers](images/UserManagementSystemAdminOptionSelected.PNG)
+![alt tag for screen readers](images/UserManagementSystemEmployeeMenu.PNG)
